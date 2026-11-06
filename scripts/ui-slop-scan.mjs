@@ -7,7 +7,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const VERSION = "1.0.2";
+const VERSION = "1.0.3";
 const extensions = new Set([".css",".scss",".sass",".less",".html",".htm",".js",".jsx",".ts",".tsx",".vue",".svelte"]);
 const ignored = new Set([".git","node_modules",".next",".nuxt","dist","build","coverage","vendor","out",".turbo",".vercel"]);
 const rules = [
