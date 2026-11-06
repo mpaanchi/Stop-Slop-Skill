@@ -3,7 +3,7 @@ name: stop-slop
 description: Stop Slop by The KODE helps AI agents avoid generic, overdesigned, template-driven UX/UI and build purposeful, accessible interfaces. Use when creating, editing, or reviewing websites, apps, dashboards, mobile interfaces, design systems, frontend styling, or user flows.
 compatibility: Works with coding agents supporting the Agent Skills SKILL.md format. Project file access is needed for repository inspection; browser or screenshot tools improve visual review.
 metadata:
-  version: "1.0.2"
+  version: "1.0.3"
   category: "design-quality"
   author: "The KODE"
 ---
